@@ -1,8 +1,9 @@
+import { lightBlue } from "@mui/material/colors";
 import React from "react";
 
 export default function Footer() {
   return (
-    <div>
+    <div style={{backgroundColor: lightBlue}}>
       FOOTER
       <ul>
         <li>

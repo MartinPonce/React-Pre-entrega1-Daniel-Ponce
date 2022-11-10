@@ -6,10 +6,8 @@ export default function BodyApp() {
       MAIN
       <h1>HOLA MENDOZA</h1>
       <p>
-        Una lorem ipsum con un par de cosasUna lorem ipsum con un par de
-        cosasUna lorem ipsum con un par de cosasUna lorem ipsum con un par de
-        cosasUna lorem ipsum con un par de cosasUna lorem ipsum con un par de
-        cosas
+        Una lorem ipsum con un par de cosasUna lorem ipsum con un par de cosasUna lorem ipsum con un par de cosasUna 
+        lorem ipsum con un par de cosasUna lorem ipsum con un par de cosasUna lorem ipsum con un par de cosas
       </p>
     </div>
   );
